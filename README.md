@@ -44,9 +44,7 @@ Autor
 Desenvolvido por Aleilson  
 📍 Limeira, SP – Brasil
 
-LinkedIn • Portfólio • Instagram
 
 
-Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar!
+
